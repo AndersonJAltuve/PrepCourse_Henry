@@ -1,1 +1,1 @@
-este es una prueba de como crear un repositorio y clonarlo
+este es una prueba de como crear un repositorio de prueba y clonarlo
